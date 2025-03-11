@@ -14,7 +14,7 @@ get_header(); ?>
             <div class="mb-5">
                 <h3 class="font-display text-[28px] lg:text-[40px] uppercase" data-aos="fade-up" data-aos-duration="2000">Giới thiệu</h3>
                 <h3 class="font-display text-[54px] lg:text-[85px] mb-5 font-bold uppercase" data-aos="fade-up" data-aos-duration="2000" data-aos-anchor-placement="top-center"><span class="clip-text">CH</span> Agency</h3>
-                <h3 class="font-display text-[28px] lg:text-[40px]" data-aos="fade-up" data-aos-duration="2000">(Full Stack Web Developer)</h3>
+                <h3 class="font-display text-[28px] lg:text-[40px]" data-aos="fade-up" data-aos-duration="2000">Thực hiện hóa ý tưởng của bạn</h3>
             </div>
             <div class="grid grid-cols-2 gap-[35px] mb-[125px]">
                 <div data-aos="fade-up" data-aos-duration="2000" class="col-span-2 lg:col-span-1">
