@@ -12,24 +12,18 @@ get_header(); ?>
     <section id="main-information" class="level bg-white py-[55px]">
         <div class="mx-auto container">
             <div class="mb-5">
-                <h3 class="font-display text-[28px] lg:text-[40px] uppercase" data-aos="fade-up" data-aos-duration="2000">Giới thiệu</h3>
                 <h3 class="font-display text-[54px] lg:text-[85px] mb-5 font-bold uppercase" data-aos="fade-up" data-aos-duration="2000" data-aos-anchor-placement="top-center"><span class="clip-text">CH</span> Agency</h3>
-                <h3 class="font-display text-[28px] lg:text-[40px]" data-aos="fade-up" data-aos-duration="2000">Thực hiện hóa ý tưởng của bạn</h3>
+                <h3 class="font-display text-[28px] lg:text-[40px]" data-aos="fade-up" data-aos-duration="2000">Web - Application designer</h3>
             </div>
-            <div class="grid grid-cols-2 gap-[35px] mb-[125px]">
-                <div data-aos="fade-up" data-aos-duration="2000" class="col-span-2 lg:col-span-1">
-                    <div class="bg-black relative text-white font-display overflow-hidden rounded-[15px] p-[55px] h-[640px]" data-aos="fade-up" data-aos-duration="2000">
-                        <img id="parallax-image" class="w-[240px] absolute bottom-5 -left-[60px]" src=" https://ch.io.vn/wp-content/uploads/2025/01/object-3.png" alt="">
-                    </div>
-                </div>
-                <div class="col-span-2 lg:col-span-1">
-                    <div class="bg-black relative text-white font-display rounded-[15px] p-[55px] h-[640px]" style="background: url(https://ch.io.vn/wp-content/uploads/2025/01/2755693.jpg)" data-aos="fade-up" data-aos-duration="2000">
+            <div class="grid grid-cols-2 gap-[35px] mb-[125px] bg-black bg-no-repeat bg-fit bg-right" style="background-image: url(/wp-content/uploads/2025/03/2755693.jpg)">
+            <div data-aos="fade-up" data-aos-duration="2000" class="col-span-2 lg:col-span-1">
+                <div class="relative text-white font-display rounded-[15px] p-[55px] h-[640px]" data-aos="fade-up" data-aos-duration="2000">
                         <div class="relative h-full">
                             <div id="layer-image">
                                 <h3 class="text-[45px] font-bold uppercase">THIẾT KẾ</h3>
-                                <h3 class="text-[45px] font-bold uppercase">ỨNG DỤNG</h3>
-                                <h3 class="text-[45px] font-bold uppercase">HOÀN HẢO</h3>
-                                <h3 class="text-[45px] font-bold uppercase">CỦA BẠN</h3>
+                                <h3 class="text-[45px] font-bold uppercase">ỨNG DỤNG WEB</h3>
+                                <h3 class="text-[45px] font-bold uppercase">MOBILE APPLICATION</h3>
+                                <h3 class="text-[45px] font-bold uppercase">BLOCK CHAIN DAPP</h3>
                             </div>
                             <div class="landing-content absolute bottom-0 left-0 z-10 text-white">
                                 <div class="mk-round-text-2 swm-anim">
@@ -50,6 +44,12 @@ get_header(); ?>
                             </div>
                         </div>
                     </div>
+                    <div class="absolute text-white font-display overflow-hidden rounded-[15px] p-[55px] h-[640px]" data-aos="fade-up" data-aos-duration="2000">
+                        <img id="parallax-image" class="w-[240px] absolute bottom-5 -left-[60px]" src="/wp-content/uploads/2025/01/object-3.png" alt="">
+                    </div>
+                </div>
+                <div class="col-span-2 lg:col-span-1">
+      
                 </div>
             </div>
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-[25px] mb-[125px]">
@@ -371,10 +371,10 @@ get_header(); ?>
         </div>
         <div class="grid grid-cols-2 lg:grid-cols-6 gap-[24px] px-[24px]">
             <div class="col-span-1">
-                <img data-aos="fade-up" data-aos-duration="2000" class="rounded-[15px]" src="https://ch.io.vn/wp-content/uploads/2025/01/contact-2.webp" alt="">
+                <img data-aos="fade-up" data-aos-duration="2000" class="rounded-[15px]" src="/wp-content/uploads/2025/01/contact-2.webp" alt="">
             </div>
             <div class="col-span-1">
-                <img data-aos="fade-up" data-aos-duration="2000" class="rounded-[15px]" src="https://ch.io.vn/wp-content/uploads/2025/01/contact-1.webp" alt="">
+                <img data-aos="fade-up" data-aos-duration="2000" class="rounded-[15px]" src="/wp-content/uploads/2025/01/contact-1.webp" alt="">
             </div>
             <div class="col-span-2">
                 <div data-aos="fade-up" data-aos-duration="2000" class="bg-black flex flex-col justify-between text-white h-full p-5 rounded-[15px]">
@@ -399,10 +399,10 @@ get_header(); ?>
                 </div>
             </div>
             <div data-aos="fade-up" data-aos-duration="2000" class="col-span-1">
-                <img class="rounded-[15px]" src="https://ch.io.vn/wp-content/uploads/2025/01/contact-4.webp" alt="">
+                <img class="rounded-[15px]" src="/wp-content/uploads/2025/01/contact-4.webp" alt="">
             </div>
             <div data-aos="fade-up" data-aos-duration="2000" class="col-span-1">
-                <img class="rounded-[15px]" src="https://ch.io.vn/wp-content/uploads/2025/01/contact-3.webp" alt="">
+                <img class="rounded-[15px]" src="/wp-content/uploads/2025/01/contact-3.webp" alt="">
             </div>
         </div>
     </section>
